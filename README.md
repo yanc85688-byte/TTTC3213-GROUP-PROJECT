@@ -1,5 +1,6 @@
 MR.DIY Malaysia Home & Living (Household) Products — ETL & Price/Discount Analysis
-
+Chen Yan 
+Cheng Zixin 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/150iZBe3AhVHhhMrD4VYLOGT3OkqdH9T6?usp=sharing)
 
  Overview
